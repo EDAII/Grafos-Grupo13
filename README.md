@@ -23,7 +23,7 @@ Neste trabalho, escolhemos **4 exercícios de nível difícil do LeetCode** com 
 **1377. Frog Position After T Seconds**
 ![1377. Frog Position After T Seconds](ex_1377.png)
 
-**21857. Largest Color Value in a Directed Graph**
+**1857. Largest Color Value in a Directed Graph**
 ![1857. Largest Color Value in a Directed Graph](ex_1857.png)
 
 ## Objetivo
