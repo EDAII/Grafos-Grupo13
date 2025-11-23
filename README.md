@@ -36,4 +36,4 @@ O objetivo deste trabalho é aplicar os conceitos aprendidos em sala de aula, ex
 
 ## Apresentação
 
-**Algoritmos de Ordenação LeetCode** - [Link para a apresentação](https://www.youtube.com/watch?v=1__ShMnc4Gc)
+**Algoritmos de Ordenação LeetCode** - [Link para a apresentação](https://youtu.be/n9vN0MzT_gg)
